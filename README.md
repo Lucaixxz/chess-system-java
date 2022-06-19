@@ -22,7 +22,7 @@ Projeto iniciado com o objetivo de praticar contéudos como:
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/81615409/174504422-e70d2e6f-4683-4f38-8b14-4f884a0a08da.gif)
 
 - Após isso o jogo iniciará no seu terminal.
-- Para encerrar o jogo é so apertar Cntrl + C.
+- Para encerrar o jogo é so apertar Ctrl + C.
 
 #### Projeto feito junto ao professor Nélio Alves - escola de programação DevSuperior
 
